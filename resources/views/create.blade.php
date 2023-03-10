@@ -91,7 +91,7 @@
     </div><br>
 
     <div class="form-group">
-      <label>kkk
+      <label>kkknnn
         <input type="checkbox" name="notification" value="1">Notification Subscription
       </label>
     </div>

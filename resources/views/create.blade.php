@@ -91,11 +91,11 @@
     </div><br>
 
     <div class="form-group">
-      <label>kkknnn
+      <label>
         <input type="checkbox" name="notification" value="1">Notification Subscription
       </label>
     </div>
-xx
+
     <div class="form-group">
       <label>Title</label>
       <select class="form-control" name="Ba_status" id="select">
